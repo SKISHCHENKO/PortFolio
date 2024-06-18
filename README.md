@@ -1,3 +1,3 @@
 # Сергей Кищенко
-![](https://raw.githubusercontent.com/SKISHCHENKO/PortFolio/blob/main/foto.jpg)
+![](https://github.com/SKISHCHENKO/PortFolio/blob/main/foto.png)
 Учусь в Нетологии. Изучаю Java и Git
