@@ -1,6 +1,6 @@
 # Сергей Кищенко
 
-![](https://github.com/SKISHCHENKO/PortFolio/blob/main/photo.jpg)
+![](https://github.com/SKISHCHENKO/PortFolio/blob/main/photo.jpg)  
 Учусь в Нетологии. Изучаю Java
 
 # Отдельные работы:
