@@ -3,7 +3,7 @@
 ![](https://github.com/SKISHCHENKO/PortFolio/blob/main/photo.jpg)  
 Учусь в Нетологии. Изучаю Java
 
-# ✅ Completed :
+ ✅ Completed :
 
 [Сетевой чат](https://github.com/SKISHCHENKO/Chat)  
 
